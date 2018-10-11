@@ -1,5 +1,7 @@
 ## Small news finder
 
+[![Build Status](https://travis-ci.org/dankreiger/news-finder.svg?branch=master)](https://travis-ci.org/dankreiger/news-finder)
+
 #### Prerequisites
 
 - apiKey from [https://newsapi.org/](https://newsapi.org/)

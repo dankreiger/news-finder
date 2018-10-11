@@ -5,7 +5,7 @@ import SearchButton from '../SearchButton/SearchButton';
 import SearchInput from '../SearchInput/SearchInput';
 
 const SearchForm = ({ handleChange, fetchArticles, inputVal }) => (
-  <Row>
+  <Row className="mb-3">
     <Col xs="12" sm="9" md="10">
       <SearchInput
         handleChange={handleChange}

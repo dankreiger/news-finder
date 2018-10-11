@@ -29,6 +29,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test:coverage": "npm run test -- --coverage --collectCoverageFrom=src/components/**/*.js",
+    "deploy": "npm run build && surge --project ./build --domain news-finder.surge.sh",
     "eject": "react-scripts"
   },
   "eslintConfig": {

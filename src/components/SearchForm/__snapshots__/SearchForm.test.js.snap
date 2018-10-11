@@ -63,6 +63,7 @@ ShallowWrapper {
           />
         </Col>,
       ],
+      "className": "mb-3",
       "tag": "div",
     },
     "ref": null,
@@ -194,6 +195,7 @@ ShallowWrapper {
             />
           </Col>,
         ],
+        "className": "mb-3",
         "tag": "div",
       },
       "ref": null,
