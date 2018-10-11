@@ -28,7 +28,6 @@
 
   - You will be prompted for you newsapi.org apiKey when you first start the server. Once you enter it, you will not receive the prompt.
 
-
 ***
 
 Testing
