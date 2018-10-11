@@ -1,0 +1,57 @@
+{
+  "name": "news-finder",
+  "version": "0.1.0",
+  "homepage": "https://news-finder.surge.sh/",
+  "repository": "https://github.com/dankreiger/news-finder.git",
+  "license": "MIT",
+  "author": "Dan Kreiger <dan@dankreiger.com> (http://www.dankreiger.com)",
+  "private": true,
+  "dependencies": {
+    "axios": "0.18.0",
+    "bootstrap": "4.1.3",
+    "lodash": "4.17.11",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-progressive-image": "0.6.0",
+    "react-scripts": "2.0.4",
+    "reactstrap": "6.5.0",
+    "styled-components": "3.4.10"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json,css}": [
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "scripts": {
+    "start": "./start.sh",
+    "start:scripts": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test:coverage": "npm run test -- --coverage --collectCoverageFrom=src/components/**/*.js",
+    "eject": "react-scripts"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "enzyme": "3.7.0",
+    "enzyme-adapter-react-16": "1.6.0",
+    "husky": "1.1.1",
+    "jest": "23.6.0",
+    "jest-cli": "20.0.4",
+    "lint-staged": "7.3.0",
+    "prettier": "1.14.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}

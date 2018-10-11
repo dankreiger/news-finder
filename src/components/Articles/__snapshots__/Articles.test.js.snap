@@ -1,0 +1,643 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Articles renders without crashing 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Articles
+    articles={
+      Array [
+        Object {
+          "author": "Amanda Luz Henning Santiago",
+          "content": "On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'… [+1996 chars]",
+          "description": "On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'…",
+          "publishedAt": "2018-10-10T15:56:59Z",
+          "source": Object {
+            "id": "mashable",
+            "name": "Mashable",
+          },
+          "title": "Fox News reveals it has no idea how movies work in a very misguided tweet about Jamie Lee Curtis",
+          "url": "https://mashable.com/article/fox-news-jamie-lee-curtis-gun-control-tweet-halloween/",
+          "urlToImage": "https://i.amz.mshcdn.com/CrqgZdv3yZ8ITPg9VA0qNEHVFfA=/1200x630/2018%2F10%2F10%2F6e%2F0d481eaee8564432b78be96cb96f1954.4fe76.jpg",
+        },
+        Object {
+          "author": "Tim Dowling",
+          "content": "T elford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to a national outbreak of avian malaria, so the penguins currently on show at the zoo are, um, plastic models. Dece… [+1846 chars]",
+          "description": "From plastic penguins to dogs impersonating lions, zoos across the world are using fake animals to fill shortages Telford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to…",
+          "publishedAt": "2018-10-03T14:20:42Z",
+          "source": Object {
+            "id": "the-guardian-au",
+            "name": "The Guardian (AU)",
+          },
+          "title": "Why did that lion woof? When zoos play fast and loose with the truth",
+          "url": "https://www.theguardian.com/global/shortcuts/2018/oct/03/why-did-that-lion-go-woof-when-zoos-play-fast-and-loose-with-the-truth",
+          "urlToImage": "https://i.guim.co.uk/img/media/adc2f3459824bd42cce760f96efa00a35c5ffbc5/0_179_5200_3122/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=7bd98c49eff0441a414af650b9a29dd3",
+        },
+        Object {
+          "author": "Lucy Mangan",
+          "content": "Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted times we must live our dreams of dramaturgical glory vicariously. In an anonymous compound somewhere in London a set of sou… [+2975 chars]",
+          "description": "ITV1 Showbiz hopefuls battle it out for jobs as TV presenters and tour guides in a strangely charming Friday-night treat Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted ti…",
+          "publishedAt": "2018-10-05T21:00:04Z",
+          "source": Object {
+            "id": "the-guardian-au",
+            "name": "The Guardian (AU)",
+          },
+          "title": "The Big Audition review – at last … reality TV without the sneering",
+          "url": "https://www.theguardian.com/tv-and-radio/2018/oct/05/the-big-audition-review-itv",
+          "urlToImage": "https://i.guim.co.uk/img/media/7054c56e6c6c014613d037272c326644f169222a/1111_744_4420_2653/master/4420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvYTlkMjMzODNlNzhjZjM4ZDQ2ZDYyYjFjYTg4ZmJhZGEvdGctcmV2aWV3LTMucG5n&s=902fdbd28eccea0df842246a76c9ecb9",
+        },
+        Object {
+          "author": "Maria Popova",
+          "content": "“All the goodness and the heroisms will rise up again, then be cut down again and rise up,” John Steinbeck (February 27, 1902–December 20, 1968) wrote as he contemplated good, evil, and the necessary contradiction of human nature at the peak of WWII. “It isn’… [+3398 chars]",
+          "description": "\\"Try to understand men, if you understand each other you will be kind to each other. Knowing a man well never leads to hate and nearly always leads to love.\\"",
+          "publishedAt": "2018-09-17T06:00:38Z",
+          "source": Object {
+            "id": null,
+            "name": "Brainpickings.org",
+          },
+          "title": "The Only Story in the World: John Steinbeck on Kindness, Good and Evil, the Wellspring of Good Writing",
+          "url": "https://www.brainpickings.org/2018/09/17/john-steinbeck-good-evil-east-of-eden/",
+          "urlToImage": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck4.jpg?fit=600%2C315&ssl=1",
+        },
+      ]
+    }
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <Col
+          className="h-100"
+          md="6"
+          tag="div"
+          widths={
+            Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ]
+          }
+          xs="12"
+        >
+          <Article
+            description="On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'…"
+            sourceName="Mashable"
+            title="Fox News reveals it has no idea how movies work in a very misguided tweet about Jamie Lee Curtis"
+            url="https://mashable.com/article/fox-news-jamie-lee-curtis-gun-control-tweet-halloween/"
+            urlToImage="https://i.amz.mshcdn.com/CrqgZdv3yZ8ITPg9VA0qNEHVFfA=/1200x630/2018%2F10%2F10%2F6e%2F0d481eaee8564432b78be96cb96f1954.4fe76.jpg"
+          />
+        </Col>,
+        <Col
+          className="h-100"
+          md="6"
+          tag="div"
+          widths={
+            Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ]
+          }
+          xs="12"
+        >
+          <Article
+            description="From plastic penguins to dogs impersonating lions, zoos across the world are using fake animals to fill shortages Telford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to…"
+            sourceName="The Guardian (AU)"
+            title="Why did that lion woof? When zoos play fast and loose with the truth"
+            url="https://www.theguardian.com/global/shortcuts/2018/oct/03/why-did-that-lion-go-woof-when-zoos-play-fast-and-loose-with-the-truth"
+            urlToImage="https://i.guim.co.uk/img/media/adc2f3459824bd42cce760f96efa00a35c5ffbc5/0_179_5200_3122/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=7bd98c49eff0441a414af650b9a29dd3"
+          />
+        </Col>,
+        <Col
+          className="h-100"
+          md="6"
+          tag="div"
+          widths={
+            Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ]
+          }
+          xs="12"
+        >
+          <Article
+            description="ITV1 Showbiz hopefuls battle it out for jobs as TV presenters and tour guides in a strangely charming Friday-night treat Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted ti…"
+            sourceName="The Guardian (AU)"
+            title="The Big Audition review – at last … reality TV without the sneering"
+            url="https://www.theguardian.com/tv-and-radio/2018/oct/05/the-big-audition-review-itv"
+            urlToImage="https://i.guim.co.uk/img/media/7054c56e6c6c014613d037272c326644f169222a/1111_744_4420_2653/master/4420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvYTlkMjMzODNlNzhjZjM4ZDQ2ZDYyYjFjYTg4ZmJhZGEvdGctcmV2aWV3LTMucG5n&s=902fdbd28eccea0df842246a76c9ecb9"
+          />
+        </Col>,
+        <Col
+          className="h-100"
+          md="6"
+          tag="div"
+          widths={
+            Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ]
+          }
+          xs="12"
+        >
+          <Article
+            description="\\"Try to understand men, if you understand each other you will be kind to each other. Knowing a man well never leads to hate and nearly always leads to love.\\""
+            sourceName="Brainpickings.org"
+            title="The Only Story in the World: John Steinbeck on Kindness, Good and Evil, the Wellspring of Good Writing"
+            url="https://www.brainpickings.org/2018/09/17/john-steinbeck-good-evil-east-of-eden/"
+            urlToImage="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck4.jpg?fit=600%2C315&ssl=1"
+          />
+        </Col>,
+      ],
+      "noGutters": true,
+      "tag": "div",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": "0",
+        "nodeType": "function",
+        "props": Object {
+          "children": <Article
+            description="On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'…"
+            sourceName="Mashable"
+            title="Fox News reveals it has no idea how movies work in a very misguided tweet about Jamie Lee Curtis"
+            url="https://mashable.com/article/fox-news-jamie-lee-curtis-gun-control-tweet-halloween/"
+            urlToImage="https://i.amz.mshcdn.com/CrqgZdv3yZ8ITPg9VA0qNEHVFfA=/1200x630/2018%2F10%2F10%2F6e%2F0d481eaee8564432b78be96cb96f1954.4fe76.jpg"
+          />,
+          "className": "h-100",
+          "md": "6",
+          "tag": "div",
+          "widths": Array [
+            "xs",
+            "sm",
+            "md",
+            "lg",
+            "xl",
+          ],
+          "xs": "12",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "description": "On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'…",
+            "sourceName": "Mashable",
+            "title": "Fox News reveals it has no idea how movies work in a very misguided tweet about Jamie Lee Curtis",
+            "url": "https://mashable.com/article/fox-news-jamie-lee-curtis-gun-control-tweet-halloween/",
+            "urlToImage": "https://i.amz.mshcdn.com/CrqgZdv3yZ8ITPg9VA0qNEHVFfA=/1200x630/2018%2F10%2F10%2F6e%2F0d481eaee8564432b78be96cb96f1954.4fe76.jpg",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "1",
+        "nodeType": "function",
+        "props": Object {
+          "children": <Article
+            description="From plastic penguins to dogs impersonating lions, zoos across the world are using fake animals to fill shortages Telford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to…"
+            sourceName="The Guardian (AU)"
+            title="Why did that lion woof? When zoos play fast and loose with the truth"
+            url="https://www.theguardian.com/global/shortcuts/2018/oct/03/why-did-that-lion-go-woof-when-zoos-play-fast-and-loose-with-the-truth"
+            urlToImage="https://i.guim.co.uk/img/media/adc2f3459824bd42cce760f96efa00a35c5ffbc5/0_179_5200_3122/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=7bd98c49eff0441a414af650b9a29dd3"
+          />,
+          "className": "h-100",
+          "md": "6",
+          "tag": "div",
+          "widths": Array [
+            "xs",
+            "sm",
+            "md",
+            "lg",
+            "xl",
+          ],
+          "xs": "12",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "description": "From plastic penguins to dogs impersonating lions, zoos across the world are using fake animals to fill shortages Telford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to…",
+            "sourceName": "The Guardian (AU)",
+            "title": "Why did that lion woof? When zoos play fast and loose with the truth",
+            "url": "https://www.theguardian.com/global/shortcuts/2018/oct/03/why-did-that-lion-go-woof-when-zoos-play-fast-and-loose-with-the-truth",
+            "urlToImage": "https://i.guim.co.uk/img/media/adc2f3459824bd42cce760f96efa00a35c5ffbc5/0_179_5200_3122/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=7bd98c49eff0441a414af650b9a29dd3",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "2",
+        "nodeType": "function",
+        "props": Object {
+          "children": <Article
+            description="ITV1 Showbiz hopefuls battle it out for jobs as TV presenters and tour guides in a strangely charming Friday-night treat Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted ti…"
+            sourceName="The Guardian (AU)"
+            title="The Big Audition review – at last … reality TV without the sneering"
+            url="https://www.theguardian.com/tv-and-radio/2018/oct/05/the-big-audition-review-itv"
+            urlToImage="https://i.guim.co.uk/img/media/7054c56e6c6c014613d037272c326644f169222a/1111_744_4420_2653/master/4420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvYTlkMjMzODNlNzhjZjM4ZDQ2ZDYyYjFjYTg4ZmJhZGEvdGctcmV2aWV3LTMucG5n&s=902fdbd28eccea0df842246a76c9ecb9"
+          />,
+          "className": "h-100",
+          "md": "6",
+          "tag": "div",
+          "widths": Array [
+            "xs",
+            "sm",
+            "md",
+            "lg",
+            "xl",
+          ],
+          "xs": "12",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "description": "ITV1 Showbiz hopefuls battle it out for jobs as TV presenters and tour guides in a strangely charming Friday-night treat Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted ti…",
+            "sourceName": "The Guardian (AU)",
+            "title": "The Big Audition review – at last … reality TV without the sneering",
+            "url": "https://www.theguardian.com/tv-and-radio/2018/oct/05/the-big-audition-review-itv",
+            "urlToImage": "https://i.guim.co.uk/img/media/7054c56e6c6c014613d037272c326644f169222a/1111_744_4420_2653/master/4420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvYTlkMjMzODNlNzhjZjM4ZDQ2ZDYyYjFjYTg4ZmJhZGEvdGctcmV2aWV3LTMucG5n&s=902fdbd28eccea0df842246a76c9ecb9",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "3",
+        "nodeType": "function",
+        "props": Object {
+          "children": <Article
+            description="\\"Try to understand men, if you understand each other you will be kind to each other. Knowing a man well never leads to hate and nearly always leads to love.\\""
+            sourceName="Brainpickings.org"
+            title="The Only Story in the World: John Steinbeck on Kindness, Good and Evil, the Wellspring of Good Writing"
+            url="https://www.brainpickings.org/2018/09/17/john-steinbeck-good-evil-east-of-eden/"
+            urlToImage="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck4.jpg?fit=600%2C315&ssl=1"
+          />,
+          "className": "h-100",
+          "md": "6",
+          "tag": "div",
+          "widths": Array [
+            "xs",
+            "sm",
+            "md",
+            "lg",
+            "xl",
+          ],
+          "xs": "12",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "description": "\\"Try to understand men, if you understand each other you will be kind to each other. Knowing a man well never leads to hate and nearly always leads to love.\\"",
+            "sourceName": "Brainpickings.org",
+            "title": "The Only Story in the World: John Steinbeck on Kindness, Good and Evil, the Wellspring of Good Writing",
+            "url": "https://www.brainpickings.org/2018/09/17/john-steinbeck-good-evil-east-of-eden/",
+            "urlToImage": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck4.jpg?fit=600%2C315&ssl=1",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+    ],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <Col
+            className="h-100"
+            md="6"
+            tag="div"
+            widths={
+              Array [
+                "xs",
+                "sm",
+                "md",
+                "lg",
+                "xl",
+              ]
+            }
+            xs="12"
+          >
+            <Article
+              description="On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'…"
+              sourceName="Mashable"
+              title="Fox News reveals it has no idea how movies work in a very misguided tweet about Jamie Lee Curtis"
+              url="https://mashable.com/article/fox-news-jamie-lee-curtis-gun-control-tweet-halloween/"
+              urlToImage="https://i.amz.mshcdn.com/CrqgZdv3yZ8ITPg9VA0qNEHVFfA=/1200x630/2018%2F10%2F10%2F6e%2F0d481eaee8564432b78be96cb96f1954.4fe76.jpg"
+            />
+          </Col>,
+          <Col
+            className="h-100"
+            md="6"
+            tag="div"
+            widths={
+              Array [
+                "xs",
+                "sm",
+                "md",
+                "lg",
+                "xl",
+              ]
+            }
+            xs="12"
+          >
+            <Article
+              description="From plastic penguins to dogs impersonating lions, zoos across the world are using fake animals to fill shortages Telford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to…"
+              sourceName="The Guardian (AU)"
+              title="Why did that lion woof? When zoos play fast and loose with the truth"
+              url="https://www.theguardian.com/global/shortcuts/2018/oct/03/why-did-that-lion-go-woof-when-zoos-play-fast-and-loose-with-the-truth"
+              urlToImage="https://i.guim.co.uk/img/media/adc2f3459824bd42cce760f96efa00a35c5ffbc5/0_179_5200_3122/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=7bd98c49eff0441a414af650b9a29dd3"
+            />
+          </Col>,
+          <Col
+            className="h-100"
+            md="6"
+            tag="div"
+            widths={
+              Array [
+                "xs",
+                "sm",
+                "md",
+                "lg",
+                "xl",
+              ]
+            }
+            xs="12"
+          >
+            <Article
+              description="ITV1 Showbiz hopefuls battle it out for jobs as TV presenters and tour guides in a strangely charming Friday-night treat Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted ti…"
+              sourceName="The Guardian (AU)"
+              title="The Big Audition review – at last … reality TV without the sneering"
+              url="https://www.theguardian.com/tv-and-radio/2018/oct/05/the-big-audition-review-itv"
+              urlToImage="https://i.guim.co.uk/img/media/7054c56e6c6c014613d037272c326644f169222a/1111_744_4420_2653/master/4420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvYTlkMjMzODNlNzhjZjM4ZDQ2ZDYyYjFjYTg4ZmJhZGEvdGctcmV2aWV3LTMucG5n&s=902fdbd28eccea0df842246a76c9ecb9"
+            />
+          </Col>,
+          <Col
+            className="h-100"
+            md="6"
+            tag="div"
+            widths={
+              Array [
+                "xs",
+                "sm",
+                "md",
+                "lg",
+                "xl",
+              ]
+            }
+            xs="12"
+          >
+            <Article
+              description="\\"Try to understand men, if you understand each other you will be kind to each other. Knowing a man well never leads to hate and nearly always leads to love.\\""
+              sourceName="Brainpickings.org"
+              title="The Only Story in the World: John Steinbeck on Kindness, Good and Evil, the Wellspring of Good Writing"
+              url="https://www.brainpickings.org/2018/09/17/john-steinbeck-good-evil-east-of-eden/"
+              urlToImage="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck4.jpg?fit=600%2C315&ssl=1"
+            />
+          </Col>,
+        ],
+        "noGutters": true,
+        "tag": "div",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "0",
+          "nodeType": "function",
+          "props": Object {
+            "children": <Article
+              description="On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'…"
+              sourceName="Mashable"
+              title="Fox News reveals it has no idea how movies work in a very misguided tweet about Jamie Lee Curtis"
+              url="https://mashable.com/article/fox-news-jamie-lee-curtis-gun-control-tweet-halloween/"
+              urlToImage="https://i.amz.mshcdn.com/CrqgZdv3yZ8ITPg9VA0qNEHVFfA=/1200x630/2018%2F10%2F10%2F6e%2F0d481eaee8564432b78be96cb96f1954.4fe76.jpg"
+            />,
+            "className": "h-100",
+            "md": "6",
+            "tag": "div",
+            "widths": Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ],
+            "xs": "12",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "description": "On Wednesday, Fox News shared one of the dumbest takes of our time about Jamie Lee Curtis, star of the Halloween re-boot. The conservative news outlet tweeted, \\"Jamie Lee Curtis wields firearms in new 'Halloween' movie despite advocating for gun control.\\" It'…",
+              "sourceName": "Mashable",
+              "title": "Fox News reveals it has no idea how movies work in a very misguided tweet about Jamie Lee Curtis",
+              "url": "https://mashable.com/article/fox-news-jamie-lee-curtis-gun-control-tweet-halloween/",
+              "urlToImage": "https://i.amz.mshcdn.com/CrqgZdv3yZ8ITPg9VA0qNEHVFfA=/1200x630/2018%2F10%2F10%2F6e%2F0d481eaee8564432b78be96cb96f1954.4fe76.jpg",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "1",
+          "nodeType": "function",
+          "props": Object {
+            "children": <Article
+              description="From plastic penguins to dogs impersonating lions, zoos across the world are using fake animals to fill shortages Telford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to…"
+              sourceName="The Guardian (AU)"
+              title="Why did that lion woof? When zoos play fast and loose with the truth"
+              url="https://www.theguardian.com/global/shortcuts/2018/oct/03/why-did-that-lion-go-woof-when-zoos-play-fast-and-loose-with-the-truth"
+              urlToImage="https://i.guim.co.uk/img/media/adc2f3459824bd42cce760f96efa00a35c5ffbc5/0_179_5200_3122/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=7bd98c49eff0441a414af650b9a29dd3"
+            />,
+            "className": "h-100",
+            "md": "6",
+            "tag": "div",
+            "widths": Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ],
+            "xs": "12",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "description": "From plastic penguins to dogs impersonating lions, zoos across the world are using fake animals to fill shortages Telford Exotic Zoo has a brand new visitor attraction: a £60,000 penguin enclosure. Unfortunately there is a bit of a penguin shortage, thanks to…",
+              "sourceName": "The Guardian (AU)",
+              "title": "Why did that lion woof? When zoos play fast and loose with the truth",
+              "url": "https://www.theguardian.com/global/shortcuts/2018/oct/03/why-did-that-lion-go-woof-when-zoos-play-fast-and-loose-with-the-truth",
+              "urlToImage": "https://i.guim.co.uk/img/media/adc2f3459824bd42cce760f96efa00a35c5ffbc5/0_179_5200_3122/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvZDM1ODZhNWVmNTc4MTc1NmQyMWEzYjYzNWU1MTcxNDEvdGctZGVmYXVsdC5wbmc&s=7bd98c49eff0441a414af650b9a29dd3",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "2",
+          "nodeType": "function",
+          "props": Object {
+            "children": <Article
+              description="ITV1 Showbiz hopefuls battle it out for jobs as TV presenters and tour guides in a strangely charming Friday-night treat Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted ti…"
+              sourceName="The Guardian (AU)"
+              title="The Big Audition review – at last … reality TV without the sneering"
+              url="https://www.theguardian.com/tv-and-radio/2018/oct/05/the-big-audition-review-itv"
+              urlToImage="https://i.guim.co.uk/img/media/7054c56e6c6c014613d037272c326644f169222a/1111_744_4420_2653/master/4420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvYTlkMjMzODNlNzhjZjM4ZDQ2ZDYyYjFjYTg4ZmJhZGEvdGctcmV2aWV3LTMucG5n&s=902fdbd28eccea0df842246a76c9ecb9"
+            />,
+            "className": "h-100",
+            "md": "6",
+            "tag": "div",
+            "widths": Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ],
+            "xs": "12",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "description": "ITV1 Showbiz hopefuls battle it out for jobs as TV presenters and tour guides in a strangely charming Friday-night treat Ah, the roar of the greasepaint, the smell of the crowd! The allure of the theatre tempts us all, does it not? Alas, in these benighted ti…",
+              "sourceName": "The Guardian (AU)",
+              "title": "The Big Audition review – at last … reality TV without the sneering",
+              "url": "https://www.theguardian.com/tv-and-radio/2018/oct/05/the-big-audition-review-itv",
+              "urlToImage": "https://i.guim.co.uk/img/media/7054c56e6c6c014613d037272c326644f169222a/1111_744_4420_2653/master/4420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly9hc3NldHMuZ3VpbS5jby51ay9pbWFnZXMvb3ZlcmxheXMvYTlkMjMzODNlNzhjZjM4ZDQ2ZDYyYjFjYTg4ZmJhZGEvdGctcmV2aWV3LTMucG5n&s=902fdbd28eccea0df842246a76c9ecb9",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "3",
+          "nodeType": "function",
+          "props": Object {
+            "children": <Article
+              description="\\"Try to understand men, if you understand each other you will be kind to each other. Knowing a man well never leads to hate and nearly always leads to love.\\""
+              sourceName="Brainpickings.org"
+              title="The Only Story in the World: John Steinbeck on Kindness, Good and Evil, the Wellspring of Good Writing"
+              url="https://www.brainpickings.org/2018/09/17/john-steinbeck-good-evil-east-of-eden/"
+              urlToImage="https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck4.jpg?fit=600%2C315&ssl=1"
+            />,
+            "className": "h-100",
+            "md": "6",
+            "tag": "div",
+            "widths": Array [
+              "xs",
+              "sm",
+              "md",
+              "lg",
+              "xl",
+            ],
+            "xs": "12",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "description": "\\"Try to understand men, if you understand each other you will be kind to each other. Knowing a man well never leads to hate and nearly always leads to love.\\"",
+              "sourceName": "Brainpickings.org",
+              "title": "The Only Story in the World: John Steinbeck on Kindness, Good and Evil, the Wellspring of Good Writing",
+              "url": "https://www.brainpickings.org/2018/09/17/john-steinbeck-good-evil-east-of-eden/",
+              "urlToImage": "https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2015/10/johnsteinbeck4.jpg?fit=600%2C315&ssl=1",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    "disableLifecycleMethods": true,
+  },
+}
+`;
