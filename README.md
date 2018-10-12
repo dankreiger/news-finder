@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/dankreiger/news-finder.svg?branch=master)](https://travis-ci.org/dankreiger/news-finder)
 
+[Live Demo](https://news-finder.surge.sh/)
+
 #### Prerequisites
 
 - apiKey from [https://newsapi.org/](https://newsapi.org/)
